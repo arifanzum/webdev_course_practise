@@ -1,3 +1,47 @@
-body{
+body {
+    margin: 0;
+    width: 100%;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.intro {
+    background-color: #B1D7B4;    
+}
+
+.mountain{
+    width: 100%;
+}
+
+.cloud{
+    width: 100px;
+}
+
+
+.red{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+    top:200px;
+}
+
+.blue{
     background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
 }
