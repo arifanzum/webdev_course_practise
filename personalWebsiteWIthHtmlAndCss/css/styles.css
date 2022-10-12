@@ -9,6 +9,7 @@ hr{
     border-color: #F7F6DC;
     border-width: 5px;
     width: 10%;
+    margin: 100px auto;
 }
 
 
@@ -20,4 +21,7 @@ h1, h3 {
     color: #346d34;
 }
 
+.intro{
+    width: 35%;
+}
 
